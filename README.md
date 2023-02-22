@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babluroy" alt="babluroy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/champbablu25" target="blank"><img src="https://img.shields.io/twitter/follow/champbablu25?logo=twitter&style=for-the-badge" alt="champbablu25" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BabluRo82761512" target="blank"><img src="https://img.shields.io/twitter/follow/BabluRo82761512?logo=twitter&style=for-the-badge" alt="Bablu Roy" /></a> </p>
 
 - 💬 Ask me about **React, Angular, Nodejs, Firebase**
 
